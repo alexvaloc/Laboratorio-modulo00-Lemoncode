@@ -1,4 +1,4 @@
-<img width="588" height="216" alt="git checkout development" src="https://github.com/user-attachments/assets/3fbb23f2-09d0-4959-8ee9-46962a108450" />#Ejercicio de laboratorio - Modulo 00 GIT
+# Ejercicio de laboratorio - Modulo 00 GIT
 
 1. Creamos un repositorio local
 
